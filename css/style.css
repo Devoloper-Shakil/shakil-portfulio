@@ -1,0 +1,292 @@
+*{margin: 0px;padding: 0px;}
+.menu{
+	background: #4CAF50;
+	height: 65px;
+	margin-bottom: -7px;
+}
+.manue{
+	float: left;
+	width: 600px;
+	font-family: fantasy;
+	color: #ffffff;
+}
+.manue h3{
+	font-size: 43px;
+	margin-left: 38px;
+}
+.fon a{
+	font-size: 27px;
+	font-family: initial;
+}
+a:hover{
+	background: red;
+}
+.blogimg{
+	width: 100%;
+	height:  551px;
+}
+.blogimg img{
+	width: 100%;
+	height: 100%;
+	
+}
+.sh{
+	content: "";
+	border-bottom: 161px solid white;
+	width: 102%;
+	position: absolute;
+	offset-rotate: (30dg);
+	rotate: 30dg;
+	transform: rotate(-5deg);
+	top: 537px;
+}
+.blogimg .shakil{
+	width: 300px;
+	height: 400px;
+	position: relative;
+	float: right;
+	top: -367px;
+	margin-right: 13px;
+	border: 2px solid red;
+}
+.texanimat{
+	width: 400px;
+	height: 0px;
+	margin: auto;
+	background: red;
+	color: #FFEB3B;
+
+	font-family: serif;
+	position: relative;
+	top: -287px;
+}
+#smartBack{
+	font-size: 40px;
+
+
+}
+.type-wrap{
+	color: #ffffff;
+	font-size: 28px;
+	font-family: fantasy;
+}
+.abuts{
+	top: 134px;
+	position: relative;
+	background: #efe7e740;
+}
+.srot{
+	height: 355px;
+}
+.srot img{
+	width: 76%;
+	height: 100%;
+	margin-left: 55px;
+	margin-top: 8;
+}
+.hed h1{
+	border-bottom: 1px solid #131111;
+}
+.hed span{
+	color: red;
+}
+.hed p{
+	font-size: 19px;
+	font-family: inherit;
+	margin-top: 43px;
+}
+.skill{
+	overflow: hidden;
+	margin-top: 245px;
+	background: #13101094;
+	margin-bottom: 26px;
+	height: 455px;
+}
+.progress{
+	width: 70%;
+	margin: auto;
+	height: 27px;
+	margin-bottom: 10px;
+}
+.skill h1{
+	text-align: center;
+	margin-bottom: 77px;
+	font-size: 56px;
+	margin-top: 37px;
+	border-bottom: 3px solid #9E9E9E;
+}
+.skill span{
+	color: #2196F3;
+}
+.skill p{
+	text-align: center;
+	font-size: 21px;
+	margin-bottom: -28px;
+	color: #007bff;
+	font-family: -webkit-body;
+}
+.servises .container{
+	width: 72%;
+	margin: auto;
+}
+.servises{
+	position: absolute;
+	background: #191515;
+	width: 100%;
+	margin-top: 3px;
+}
+.hed1 h1{
+	text-align: center;
+	border-bottom: 2px solid #9E9E9E;
+	margin-bottom: 46px;
+	margin-top: 29px;
+	color: #fdfbfb;
+}
+.hed1  span{
+	color: red;
+}
+.icon{
+	text-align: center;
+	font-size: 89px;
+	background: #1179e066;
+}
+.icon:hover{
+	background: #0c0c0c;
+	color: white;
+}
+.footer{
+	overflow: hidden;
+	margin-top: 703px;
+	background: #0a0909b3;
+	height: 323px;
+}
+.ficon{
+	font-size: 24px;
+	color: red;
+	margin-bottom: 8px;
+	margin-top: 10px;
+}
+.contect-lin{
+	width: 375px;
+	text-align: center;
+	margin-top: 114px;
+	float: left;
+}
+.from{
+	margin-top: 35px;
+}
+.from h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: #ffeb3bc9;
+}
+.subject{
+	margin-top: 25px;
+}
+.email{
+	margin-top: 25px;
+	margin-left: 19px;
+}
+.discription{
+	width: 454px;
+	margin-left: 16px;
+}
+.copyrit{
+	width: 100%;
+	text-align: center;
+	height: 36px;
+	background: black;
+}
+.copyrit p{
+	color: wheat;
+	font-size: 17px;
+	font-family: serif;
+}
+.btne button{
+	width: 96px;
+	height: 43px;
+	color: #f5efef;
+	background: red;
+	border: black;
+	margin-left: 38px;
+	margin-top: 42px;
+}
+.btne button:hover{
+	color: black;
+	background: wheat;
+}
+.shakils{
+	width: 60%;
+	margin: 14px;
+	background: #3f51b599;
+	margin-top: -581px;
+	height: 498px;
+	float: right;
+}
+.shakils .row{
+	margin:3px;
+}
+.shakils .col-md-6{
+	margin-bottom: 18px;
+}
+.shakils .btne{
+	margin-left: 382px;
+}
+.shakils .grup{
+	margin-top: 21px;
+	margin-bottom: -1rem;
+}
+.contec{
+	background: red;
+	width: 97%;
+	margin: auto;
+	margin-top: 68px;
+	height: 850px;
+}
+.media img{
+	width: 436px;
+	padding: 17px;
+	margin-top: 37px;
+}
+.abot{
+	background: #efe9e9;
+}
+.abot img{
+	width: 291px;
+	padding: 25px;
+	margin-top: 5px;
+	border: 3px solid #908686;
+	margin: 16px;
+}
+.about-de{
+	margin: 0px;
+	font-size: 31px;
+	padding: 2px;
+	font-family: arial;
+	margin-top: 91px;
+	text-align: center;
+}
+.eduction h2{
+	margin: 20px;
+	font-size: 38px;
+	border-bottom: 5px solid #101010;
+}
+.diploma h2{
+	margin: 29px;
+	font-size: 28px;
+	text-align: center;
+}
+.detl p {
+	margin-left: 36px;
+	font-size: 20px;
+	text-align: center;
+}
+.all-detels{
+	background: #ffeb3bb8;
+	padding: 24px 0px;
+	text-align: center;
+}
+.abouts{
+	margin-top: -705px;
+}
